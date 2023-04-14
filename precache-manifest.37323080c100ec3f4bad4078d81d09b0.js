@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "5e10694ec45c87c92f60",
-    "url": "/Assignment-3/static/css/main.b1657407.chunk.css"
+    "revision": "ec54d6f320f08773cbae",
+    "url": "/Assignment-3/static/css/main.e7e59ac5.chunk.css"
   },
   {
-    "revision": "5e10694ec45c87c92f60",
-    "url": "/Assignment-3/static/js/main.5e10694e.chunk.js"
+    "revision": "ec54d6f320f08773cbae",
+    "url": "/Assignment-3/static/js/main.ec54d6f3.chunk.js"
   },
   {
     "revision": "eeb70bfc1150a369d55d",
@@ -20,11 +20,7 @@ self.__precacheManifest = [
     "url": "/Assignment-3/static/js/runtime~main.b8d911ee.js"
   },
   {
-    "revision": "3cab70b4299e77696bd4ba92b7d081c2",
-    "url": "/Assignment-3/static/media/COVID19.3cab70b4.jpg"
-  },
-  {
-    "revision": "08db8d3b6fca11579ce244ff0c62cf45",
+    "revision": "f88fb860d7a5b5e3f9f3b5eb56e411fa",
     "url": "/Assignment-3/index.html"
   }
 ];

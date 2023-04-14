@@ -1,16 +1,15 @@
 {
-  "main.css": "/Assignment-3/static/css/main.b1657407.chunk.css",
-  "main.js": "/Assignment-3/static/js/main.5e10694e.chunk.js",
-  "main.js.map": "/Assignment-3/static/js/main.5e10694e.chunk.js.map",
+  "main.css": "/Assignment-3/static/css/main.e7e59ac5.chunk.css",
+  "main.js": "/Assignment-3/static/js/main.ec54d6f3.chunk.js",
+  "main.js.map": "/Assignment-3/static/js/main.ec54d6f3.chunk.js.map",
   "static/css/1.bf55d3fb.chunk.css": "/Assignment-3/static/css/1.bf55d3fb.chunk.css",
   "static/js/1.eeb70bfc.chunk.js": "/Assignment-3/static/js/1.eeb70bfc.chunk.js",
   "static/js/1.eeb70bfc.chunk.js.map": "/Assignment-3/static/js/1.eeb70bfc.chunk.js.map",
   "runtime~main.js": "/Assignment-3/static/js/runtime~main.b8d911ee.js",
   "runtime~main.js.map": "/Assignment-3/static/js/runtime~main.b8d911ee.js.map",
-  "static/media/COVID19.jpg": "/Assignment-3/static/media/COVID19.3cab70b4.jpg",
-  "static/css/main.b1657407.chunk.css.map": "/Assignment-3/static/css/main.b1657407.chunk.css.map",
+  "static/css/main.e7e59ac5.chunk.css.map": "/Assignment-3/static/css/main.e7e59ac5.chunk.css.map",
   "static/css/1.bf55d3fb.chunk.css.map": "/Assignment-3/static/css/1.bf55d3fb.chunk.css.map",
   "index.html": "/Assignment-3/index.html",
-  "precache-manifest.a837a8e1ec1449435ec72905ad205aeb.js": "/Assignment-3/precache-manifest.a837a8e1ec1449435ec72905ad205aeb.js",
+  "precache-manifest.37323080c100ec3f4bad4078d81d09b0.js": "/Assignment-3/precache-manifest.37323080c100ec3f4bad4078d81d09b0.js",
   "service-worker.js": "/Assignment-3/service-worker.js"
 }
