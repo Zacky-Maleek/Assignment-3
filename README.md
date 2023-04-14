@@ -4,7 +4,7 @@
 Tugas assignment 3 membuat website Tracker COVID-19 di Indonesia dengan React dan Fetch API
 
 Link dari website:
-https://zacky-maleek.github.io/Assignment-3/
+https://zacky-maleek.github.io/Assignment-3
 
 
 
