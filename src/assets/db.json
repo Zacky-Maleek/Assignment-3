@@ -1,0 +1,276 @@
+{
+    "statewise": [
+        {
+        "dirawat": "5607",
+        "terkonfirmasi": "6727847",
+        "meninggal": "160777",   
+        "sembuh": "6561463",
+        "provinsi": "Total"
+        },
+
+        {
+        "dirawat": "7330",
+        "terkonfirmasi": "1141024",
+        "meninggal": "12497",   
+        "sembuh": "1121197",
+        "provinsi": "DKI Jakarta"
+        },
+
+        {
+        "dirawat": "5170",
+        "terkonfirmasi": "944335",
+        "meninggal": "12875",   
+        "sembuh": "926290",
+        "provinsi": "Jawa Barat"
+        },
+
+        {
+        "dirawat": "7330",
+        "terkonfirmasi": "510662",
+        "meninggal": "26481",   
+        "sembuh": "482541",
+        "provinsi": "Jawa Tengah"
+        },
+
+        {
+        "dirawat": "714",
+        "terkonfirmasi": "483527",
+        "meninggal": "25450",   
+        "sembuh": "457363",
+        "provinsi": "Jawa Timur"
+        },
+
+        {
+        "dirawat": "1316",
+        "terkonfirmasi": "269180",
+        "meninggal": "2351",   
+        "sembuh": "265513",
+        "provinsi": "Banten"
+        },
+
+        {
+        "dirawat": "530",
+        "terkonfirmasi": "179894",
+        "meninggal": "4758",   
+        "sembuh": "174606",
+        "provinsi": "DI Yogyakarta"
+        },
+
+        {
+        "dirawat": "245",
+        "terkonfirmasi": "167437",
+        "meninggal": "4622",   
+        "sembuh": "162570",
+        "provinsi": "Kalimantan Timur"
+        },
+
+        {
+        "dirawat": "242",
+        "terkonfirmasi": "133691",
+        "meninggal": "3802",   
+        "sembuh": "129647",
+        "provinsi": "Bali"
+        },
+
+        {
+        "dirawat": "346",
+        "terkonfirmasi": "127325",
+        "meninggal": "2613",   
+        "sembuh": "124366",
+        "provinsi": "Sumatera Utara"
+        },
+
+        {
+        "dirawat": "123",
+        "terkonfirmasi": "122378",
+        "meninggal": "3583",   
+        "sembuh": "118672",
+        "provinsi": "Riau"
+        },
+
+        {
+        "dirawat": "195",
+        "terkonfirmasi": "115909",
+        "meninggal": "1978",   
+        "sembuh": "113736",
+        "provinsi": "Sulawesi Selatan"
+        },
+
+        {
+        "dirawat": "164",
+        "terkonfirmasi": "83866",
+        "meninggal": "1918",   
+        "sembuh": "81784",
+        "provinsi": "Sumatera Barat"
+        },
+
+        {
+        "dirawat": "209",
+        "terkonfirmasi": "75847",
+        "meninggal": "1203",   
+        "sembuh": "74435",
+        "provinsi": "Nusa Tenggara Timur"
+        },
+
+        {
+        "dirawat": "59",
+        "terkonfirmasi": "70308",
+        "meninggal": "2053",   
+        "sembuh": "68196",
+        "provinsi": "Kalimantan Selatan"
+        },
+
+        {
+        "dirawat": "208",
+        "terkonfirmasi": "65963",
+        "meninggal": "2747",   
+        "sembuh": "63008",
+        "provinsi": "Sumatera Selatan"
+        },
+
+        {
+        "dirawat": "159",
+        "terkonfirmasi": "60631",
+        "meninggal": "3355",   
+        "sembuh": "57117",
+        "provinsi": "Lampung"
+        },
+
+        {
+        "dirawat": "80",
+        "terkonfirmasi": "56500",
+        "meninggal": "1509",   
+        "sembuh": "54911",
+        "provinsi": "Kep. Riau"
+        },
+
+        {
+        "dirawat": "91",
+        "terkonfirmasi": "53006",
+        "meninggal": "1298",   
+        "sembuh": "51617",
+        "provinsi": "Kep. Bangka Belitung"
+        },
+
+        {
+        "dirawat": "115",
+        "terkonfirmasi": "52689",
+        "meninggal": "1393",   
+        "sembuh": "51679",
+        "provinsi": "Kalimantan Barat"
+        },
+
+        {
+        "dirawat": "36",
+        "terkonfirmasi": "46734",
+        "meninggal": "1241",   
+        "sembuh": "45457",
+        "provinsi": "Kalimantan Tengah"
+        },
+
+        {
+        "dirawat": "337",
+        "terkonfirmasi": "42658",
+        "meninggal": "969",   
+        "sembuh": "41352",
+        "provinsi": "Sulawesi Utara"
+        },
+
+        {
+        "dirawat": "168",
+        "terkonfirmasi": "40138",
+        "meninggal": "456",   
+        "sembuh": "39514",
+        "provinsi": "Papua"
+        },
+
+        {
+        "dirawat": "24",
+        "terkonfirmasi": "36336",
+        "meninggal": "674",   
+        "sembuh": "35638",
+        "provinsi": "Kalimantan Utara"
+        },
+
+        {
+        "dirawat": "98",
+        "terkonfirmasi": "35338",
+        "meninggal": "1800",   
+        "sembuh": "33440",
+        "provinsi": "Aceh"
+        },
+
+        {
+        "dirawat": "60",
+        "terkonfirmasi": "31003",
+        "meninggal": "712",   
+        "sembuh": "30231",
+        "provinsi": "Jambi"
+        },
+
+        {
+        "dirawat": "21",
+        "terkonfirmasi": "29087",
+        "meninggal": "735",   
+        "sembuh": "28331",
+        "provinsi": "Nusa Tenggara Barat"
+        },
+
+        {
+        "dirawat": "105",
+        "terkonfirmasi": "25913",
+        "meninggal": "307",   
+        "sembuh": "25501",
+        "provinsi": "Papua Barat"
+        },
+
+        {
+        "dirawat": "48",
+        "terkonfirmasi": "23445",
+        "meninggal": "429",   
+        "sembuh": "22968",
+        "provinsi": "Bengkulu"
+        },
+
+        {
+        "dirawat": "61",
+        "terkonfirmasi": "20645",
+        "meninggal": "450",   
+        "sembuh": "20134",
+        "provinsi": "Sulawesi Tenggara"
+        },
+
+        {
+        "dirawat": "21",
+        "terkonfirmasi": "14895",
+        "meninggal": "248",   
+        "sembuh": "14626",
+        "provinsi": "Maluku"
+        },
+
+        {
+        "dirawat": "18",
+        "terkonfirmasi": "12443",
+        "meninggal": "331",   
+        "sembuh": "12094",
+        "provinsi": "Sulawesi Barat"
+        },
+
+        {
+        "dirawat": "13",
+        "terkonfirmasi": "11713",
+        "meninggal": "281",   
+        "sembuh": "11419",
+        "provinsi": "Maluku Utara"
+        },
+
+        {
+        "dirawat": "37",
+        "terkonfirmasi": "11230",
+        "meninggal": "281",   
+        "sembuh": "11419",
+        "provinsi": "Gorontalo"
+        }
+    
+     ]
+}
